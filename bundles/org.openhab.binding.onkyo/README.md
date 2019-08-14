@@ -197,6 +197,7 @@ Here after are the ID values of the input sources:
 -   04: GAME
 -   05: PC
 -   16: BLURAY/DVD
+-   18: TV
 -   32: TAPE1
 -   33: TAPE2
 -   34: PHONO
